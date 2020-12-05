@@ -1,5 +1,10 @@
 ## Blank PHP RFC
 
+If you looking for help for writing an RFC for PHP, you are in the right place.
+
+Below are a suggested path of how to draft an RFC and start getting people interested in the idea. Although you are obviously free to also mail the PHP internals mailing list, if you first write enough words to docuement the proposal, it may produce a more productive conversation than merely emailing the internals list.
+
+So my suggested path for having a productive RFC is:
 
 1. Fork this repo, or just copy the blank_rfc.md file
 
